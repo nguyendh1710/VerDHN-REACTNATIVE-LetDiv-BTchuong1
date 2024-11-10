@@ -1,1 +1,1 @@
-Lập trình bằng Finction component
+Lập trình bằng Function component

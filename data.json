@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "price": 1500,
+        "image": "https://example.com/images/laptop.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Smartphone",
+        "price": 800,
+        "image": "https://example.com/images/smartphone.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Headphones",
+        "price": 200,
+        "image": "https://example.com/images/headphones.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Smartwatch",
+        "price": 250,
+        "image": "https://example.com/images/smartwatch.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Laptop",
+        "price": 1500,
+        "image": "https://example.com/images/laptop.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Smartphone",
+        "price": 800,
+        "image": "https://example.com/images/smartphone.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Headphones",
+        "price": 200,
+        "image": "https://example.com/images/headphones.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Smartwatch",
+        "price": 250,
+        "image": "https://example.com/images/smartwatch.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Laptop",
+        "price": 1500,
+        "image": "https://example.com/images/laptop.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Smartphone",
+        "price": 800,
+        "image": "https://example.com/images/smartphone.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Headphones",
+        "price": 200,
+        "image": "https://example.com/images/headphones.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Smartwatch",
+        "price": 250,
+        "image": "https://example.com/images/smartwatch.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Laptop",
+        "price": 1500,
+        "image": "https://example.com/images/laptop.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Smartphone",
+        "price": 800,
+        "image": "https://example.com/images/smartphone.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Headphones",
+        "price": 200,
+        "image": "https://example.com/images/headphones.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Smartwatch",
+        "price": 250,
+        "image": "https://example.com/images/smartwatch.jpg"
+    }
+]
